@@ -2558,6 +2558,13 @@ input, select, textarea {
 				.wrapper.style3-alt .icon.major:before {
 					color: #953d75;
 				}
+				.wrapper.style4 .icon.major:before {
+					color: #3d955d;
+				}
+
+				.wrapper.style4-alt .icon.major:before {
+					color: #3d955d;
+				}
 
 /* Image */
 
