@@ -11,7 +11,7 @@
 
 html, body, div, span, applet, object,
 iframe, p, blockquote,
-pre, a, abbr, acronym, address, big, cite,
+pre, a,h1, h2, h3, h4, h5, h6, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
 u, i, center, dl, dt, dd, ol, ul, li, fieldset,
@@ -28,15 +28,7 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font-family: Wachongo;
-	font: Wachongo;
-	vertical-align: baseline;
-}
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -189,11 +181,11 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: Wachongo;
 		color: #ffffff;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
+		font-family: Wachongo;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
