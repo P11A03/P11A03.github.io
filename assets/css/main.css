@@ -1,5 +1,8 @@
 @import url(fontawesome-all.min.css);
-
+@font-face{
+	src: url(Wachongo.ttf);
+	font-family: Wachongo;
+}
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -176,6 +179,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: Wachongo;
 		color: #ffffff;
 		font-weight: bold;
 		line-height: 1.5;
